@@ -10,7 +10,7 @@
  <keydef keys="product-name">
   <topicmeta>
    <keywords>
-    <keyword>Remote Network Lighting</keyword>
+    <keyword>Remote Lighting 2017</keyword>
    </keywords>
   </topicmeta>
  </keydef>
@@ -29,4 +29,5 @@
   <topicref href="ref-specifications-led-bulb.dita"/>
  </topicref>
  <topicref href="osha-warning.dita" toc="no" processing-role="resource-only" />
+ <topicref href="ts-remotelight.dita"/>
 </map>
