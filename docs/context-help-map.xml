@@ -20,4 +20,5 @@
    <appContext helpID="ref-specifications-led-bulb"
                path="ref-specifications-led-bulb.html"/>
    <appContext helpID="trouble_nnd_z4v_hz" path="ts-remotelight.html"/>
+   <appContext helpID="contact_us" path="contact.html"/>
 </map>
