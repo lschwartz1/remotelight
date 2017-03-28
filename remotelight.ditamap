@@ -30,4 +30,5 @@
  </topicref>
  <topicref href="osha-warning.dita" toc="no" processing-role="resource-only" />
  <topicref href="ts-remotelight.dita"/>
+ <topicref href="contact.md" format="markdown"/>
 </map>
